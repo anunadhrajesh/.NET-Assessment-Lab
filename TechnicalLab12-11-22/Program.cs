@@ -2,6 +2,24 @@
 
 using TechnicalLab12_11_22;
 
-var Manager = new Employee();
-Manager.Getdata();
-Console.WriteLine("Salary " + Manager.Salary);
+/// Q.) 1.
+
+//var Manager = new Employee();
+//Manager.Getdata();
+//Console.WriteLine("Salary " + Manager.Salary);
+
+
+/// Q.) 2.
+
+//var M = new Mobile();
+//M.ReadData();
+//M.ReadData("m", "s", 7, "s");
+//M.ReadData("m2", "s2", 72, "s2");
+
+
+///Q.) 3.
+
+
+
+
+
