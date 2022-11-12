@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Runtime.Serialization.Formatters;
 using TechnicalLab12_11_22;
 
 /// Q.) 1.
@@ -30,6 +31,40 @@ using TechnicalLab12_11_22;
 
 
 /// Q.) 5.
+
+//var a = new Food();
+//Console.WriteLine(a.Price);
+
+/// Q.) 6.
+
+
+///Q.) 7.
+
+
+///Q.) 12.
+
+for (int i = 1; i <= 50; i++)
+{
+    if (i % 3 == 0 && i % 5 == 0)
+    {
+        Console.WriteLine("fizzbuzz");
+    }
+    else if (i % 5 == 0)
+
+    {
+        Console.WriteLine("buzz");
+    }
+    else if (i % 3 == 0)
+    {
+        Console.WriteLine("fizz");
+    }
+    else
+    {
+        Console.WriteLine(i);
+    }
+}
+
+
 
 
 
