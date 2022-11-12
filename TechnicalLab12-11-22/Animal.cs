@@ -8,8 +8,22 @@ namespace TechnicalLab12_11_22
 {
     internal class Animal
     {
-        public string name { get; set; }
-        public string maxlifetime { get; set; }
-        public int food { get; set; }
+        public string Name { get; set; }
+        public int MaxLifeTime { get; set; }
+        public string Food { get; set; }
+
+        public Animal()
+        {
+            Name = "ABCD";
+            MaxLifeTime = 5;
+            Food = "nothing";
+        } 
+        //public Animal()
+        //{
+        //    name = AName;
+        //    maxlifetime = AMaxLifeTime;
+        //    food = AFood;
+
+        //}
     }
 }

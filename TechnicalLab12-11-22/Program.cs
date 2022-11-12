@@ -19,6 +19,17 @@ using TechnicalLab12_11_22;
 
 ///Q.) 3.
 
+//var a = new Animal();
+//Console.WriteLine(a.Name);
+
+
+/// Q.) 4.
+
+//var b = new Furniture();
+//Console.WriteLine(b.Wood);
+
+
+/// Q.) 5.
 
 
 
